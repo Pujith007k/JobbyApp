@@ -1,0 +1,22 @@
+.notFoundbgContainer {
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.notFoundImage {
+  height: 500px;
+  width: 600px;
+}
+.notFoundHeading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.notFoundparagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

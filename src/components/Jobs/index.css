@@ -1,0 +1,147 @@
+.jobsBgcontainer {
+  background-color: #000000;
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  overflow: auto;
+}
+.container {
+  display: flex;
+}
+.profileListContainer {
+  height: 100vh;
+  width: 30vw;
+}
+.profileBg {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  margin: 20px;
+}
+.profileImage {
+  height: 60px;
+  width: 60px;
+  margin: 10px;
+}
+.profileHeading {
+  color: #4f46e5;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.profileBio {
+  color: #000000;
+  font-family: 'Roboto';
+  margin: 10px;
+}
+.unorderedList {
+  display: flex;
+  flex-direction: column;
+}
+.listEmployment {
+  list-style-type: none;
+  display: flex;
+}
+.line {
+  color: #ffffff;
+  width: 300px;
+  margin-left: 15px;
+}
+.label {
+  color: #ffffff;
+  margin: 5px;
+}
+.employmentTypeHeading {
+  color: #ffffff;
+  margin-left: 10px;
+}
+.jobsContainer {
+  display: flex;
+  flex-direction: column;
+}
+.jobsContainer {
+  height: 100vh;
+  width: 70vw;
+}
+.searchInput {
+  border-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  height: 40px;
+  width: 400px;
+  background-color: transparent;
+  color: #ffffff;
+  margin: 10px;
+  display: flex;
+  align-items: center;
+}
+.searchbar {
+  height: 40px;
+  width: 350px;
+  background-color: transparent;
+  color: #ffffff;
+  border-width: 0px;
+}
+.iconButton {
+  height: 35px;
+  width: 50px;
+  border-width: 0px;
+  background-color: #272727;
+  color: #ffffff;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+.faliureView {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failImage {
+  height: 400px;
+  width: 400px;
+}
+.failHeading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.failParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.loader-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profileRetryButt {
+  height: 40px;
+  width: 120px;
+  background-color: #6366f1;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.jobsfailImage {
+  height: 400px;
+  width: 400px;
+}
+.jobsFailureview {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.jobsfailHeading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.jobsFailParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,92 @@
+.similarList {
+  display: flex;
+  flex-direction: column;
+  height: 550px;
+  width: 300px;
+  background-color: #272727;
+  border-radius: 15px;
+  margin: 15px;
+}
+.forMargin {
+  margin: 5px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+.companyImage {
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+}
+.title_rating {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 5px;
+}
+.companyName {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.ratingContainer {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+.ratingIcon {
+  height: 15px;
+  width: 15px;
+  color: #fbbf24;
+  margin: 5px;
+}
+.ratingParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.descriptionheading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.descriptionParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-left: 15px;
+}
+.location_type {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.locationContainer {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.locationIcon {
+  height: 15px;
+  width: 15px;
+  color: #ffffff;
+  margin: 5px;
+}
+.locationParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.typeContainer {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+.typeIcon {
+  height: 15px;
+  width: 15px;
+  color: #ffffff;
+  margin: 5px;
+}
+.typeparagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+}

@@ -1,0 +1,18 @@
+.skillList {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  height: 80px;
+  width: 150px;
+  margin: 15px;
+}
+.skillImage {
+  height: 60px;
+  width: 60px;
+  margin: 5px;
+}
+.skillParagraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 5px;
+}
